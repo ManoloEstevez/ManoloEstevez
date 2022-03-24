@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente Advogo pela Busatto & Palma
 - 🌱 Estudando tecnologia da informação
-- 📫 Contate-me no email: manolopaiva@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Buscando conhecimento em T.I
 
@@ -31,5 +30,6 @@
   <a href="https://wa.me/5544991352004?text=Olá%20gostaria%20de%20tirar%20uma%20dúvida" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <div>
 
+  ![Snake animation](https://github.com/ManoloEstevez/ManoloEstevez/blob/output/github-contribution-grid-snake.svg)
 
   
