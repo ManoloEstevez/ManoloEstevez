@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente Advogo pela Busatto & Palma
 - 🌱 Estudando tecnologia da informação
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Buscando conhecimento em T.I
+- ⚡ Fun fact: Formado em direito e buscando conhecimento em T.I
 <div align="center">
   <a href="https://github.com/ManoloEstevez">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
